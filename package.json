@@ -1,0 +1,17 @@
+{
+  "name": "page-body-parser",
+  "version": "1.0.0",
+  "description": "This plugin adds the body-parser api to the page.js router and enables you to handle form submit events as you would normally handle the events on the server:",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "page": "^1.6.0"
+  }
+}
